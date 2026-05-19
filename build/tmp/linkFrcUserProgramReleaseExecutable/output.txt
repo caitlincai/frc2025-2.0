@@ -1,0 +1,4 @@
+See file:///Users/caitlin/Desktop/prog/frc2025-2.0/frc2025-2.0/build/tmp/linkFrcUserProgramReleaseExecutable/output.txt for all output for linkFrcUserProgramReleaseExecutable.
+linking frcUserProgram successful.
+
+Finished linkFrcUserProgramReleaseExecutable, see full log file:///Users/caitlin/Desktop/prog/frc2025-2.0/frc2025-2.0/build/tmp/linkFrcUserProgramReleaseExecutable/output.txt.

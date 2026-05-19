@@ -1,0 +1,395 @@
+[
+  {
+    "name": "linuxathena",
+    "architecture": "arm-v7",
+    "operatingSystem": "linux",
+    "flavor": "default",
+    "buildType": "debug",
+    "cppPath": "/Users/caitlin/wpilib/2026/roborio/bin/arm-frc2025-linux-gnueabi-g++",
+    "cPath": "/Users/caitlin/wpilib/2026/roborio/bin/arm-frc2025-linux-gnueabi-gcc",
+    "msvc": false,
+    "gcc": true,
+    "systemCppMacros": [],
+    "systemCppArgs": [],
+    "systemCMacros": [],
+    "systemCArgs": [],
+    "allLibFiles": [
+      "/Users/caitlin/.gradle/caches/8.11/transforms/f6104bb48dc2b445d33435af44c0e1bf/transformed/wpilibNewCommands-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/d5b3b99fbbcb3d21b4101a4d5266843b/transformed/wpilibc-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/80d8d2ffa7d5a44427793cd2f84a5a86/transformed/ntcore-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/61e1927f224e274ef075631484fc1efb/transformed/hal-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/738cee0ad7a15c77d303f0984004580c/transformed/wpimath-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/e7a445e86babc05f398ba55713fc00f8/transformed/wpinet-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/cb776451b663c748c5ca414f834f0ed9/transformed/wpiutil-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/c924dbf7ccc8f4dd8ec12a9f51d860ed/transformed/netcomm-2026.1.2-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/a55f4705e7cf56067e2ec20b10fe9db3/transformed/chipobject-2026.1.2-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/78c9b94bb2d2e35e7d410ed16fb5671d/transformed/visa-2026.1.2-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/bdf3d3323e037043dc69b9e4c4533ee0/transformed/cameraserver-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/2270686bb771f76bfafc30927be1f03a/transformed/cscore-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/9a70219691e3e432faabafecd8ac9baf/transformed/apriltag-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/d461df67ba0e12807cca517db0cfe4a5/transformed/opencv-cpp-4.10.0-3-headers/",
+      "/Users/caitlin/Desktop/prog/frc2025-2.0/frc2025-2.0/src/main/include/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/f8ac86706c3f0a49dea1c5acac4d25b3/transformed/wpilibNewCommands-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/339351b81e335ef09f374ca6eb0dd63c/transformed/wpilibc-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/cd9ab110e6bbbe9ff17026ae74bef92c/transformed/ntcore-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/b72c6bb25873aa056e43a56868208f82/transformed/hal-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/787ace9bfbe73de46174bef68f6427c6/transformed/wpimath-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/37a2a5684d9f025d6af246aa02d1420d/transformed/wpinet-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/30e6b05e45027d7bb4a26adfbd216901/transformed/wpiutil-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/fc642f8f6ce41569af345c2e50c3d6b9/transformed/cameraserver-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/d83caca406c87d4d97ccdb7a67ac3c1f/transformed/cscore-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/e88f81d532f5a376fe98a0690176b32a/transformed/apriltag-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/d4463c92c53b6796c44b38dd568fc694/transformed/opencv-cpp-4.10.0-3-sources/"
+    ],
+    "allLibSources": [
+      "/Users/caitlin/.gradle/caches/8.11/transforms/f8ac86706c3f0a49dea1c5acac4d25b3/transformed/wpilibNewCommands-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/339351b81e335ef09f374ca6eb0dd63c/transformed/wpilibc-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/cd9ab110e6bbbe9ff17026ae74bef92c/transformed/ntcore-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/b72c6bb25873aa056e43a56868208f82/transformed/hal-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/787ace9bfbe73de46174bef68f6427c6/transformed/wpimath-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/37a2a5684d9f025d6af246aa02d1420d/transformed/wpinet-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/30e6b05e45027d7bb4a26adfbd216901/transformed/wpiutil-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/fc642f8f6ce41569af345c2e50c3d6b9/transformed/cameraserver-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/d83caca406c87d4d97ccdb7a67ac3c1f/transformed/cscore-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/e88f81d532f5a376fe98a0690176b32a/transformed/apriltag-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/d4463c92c53b6796c44b38dd568fc694/transformed/opencv-cpp-4.10.0-3-sources/"
+    ],
+    "allLibHeaders": [
+      "/Users/caitlin/.gradle/caches/8.11/transforms/f6104bb48dc2b445d33435af44c0e1bf/transformed/wpilibNewCommands-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/d5b3b99fbbcb3d21b4101a4d5266843b/transformed/wpilibc-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/80d8d2ffa7d5a44427793cd2f84a5a86/transformed/ntcore-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/61e1927f224e274ef075631484fc1efb/transformed/hal-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/738cee0ad7a15c77d303f0984004580c/transformed/wpimath-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/e7a445e86babc05f398ba55713fc00f8/transformed/wpinet-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/cb776451b663c748c5ca414f834f0ed9/transformed/wpiutil-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/c924dbf7ccc8f4dd8ec12a9f51d860ed/transformed/netcomm-2026.1.2-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/a55f4705e7cf56067e2ec20b10fe9db3/transformed/chipobject-2026.1.2-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/78c9b94bb2d2e35e7d410ed16fb5671d/transformed/visa-2026.1.2-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/bdf3d3323e037043dc69b9e4c4533ee0/transformed/cameraserver-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/2270686bb771f76bfafc30927be1f03a/transformed/cscore-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/9a70219691e3e432faabafecd8ac9baf/transformed/apriltag-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/d461df67ba0e12807cca517db0cfe4a5/transformed/opencv-cpp-4.10.0-3-headers/",
+      "/Users/caitlin/Desktop/prog/frc2025-2.0/frc2025-2.0/src/main/include/"
+    ],
+    "binaries": [
+      {
+        "componentName": "frcUserProgram",
+        "sourceSets": [
+          {
+            "source": {
+              "srcDirs": [
+                "/Users/caitlin/Desktop/prog/frc2025-2.0/frc2025-2.0/src/main/cpp/"
+              ],
+              "includes": [
+                "**/*.cpp",
+                "**/*.cc"
+              ],
+              "excludes": []
+            },
+            "exportedHeaders": {
+              "srcDirs": [
+                "/Users/caitlin/Desktop/prog/frc2025-2.0/frc2025-2.0/src/main/include/"
+              ],
+              "includes": [],
+              "excludes": []
+            },
+            "cpp": true,
+            "args": [
+              "-Wall",
+              "-Wextra",
+              "-std=c++20",
+              "-Wformat=2",
+              "-pedantic",
+              "-Wno-psabi",
+              "-Wno-unused-parameter",
+              "-Wno-error=deprecated-enum-enum-conversion",
+              "-fPIC",
+              "-pthread",
+              "-Og",
+              "-g"
+            ],
+            "macros": []
+          }
+        ],
+        "libHeaders": [
+          "/Users/caitlin/.gradle/caches/8.11/transforms/f6104bb48dc2b445d33435af44c0e1bf/transformed/wpilibNewCommands-cpp-2026.2.1-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/d5b3b99fbbcb3d21b4101a4d5266843b/transformed/wpilibc-cpp-2026.2.1-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/80d8d2ffa7d5a44427793cd2f84a5a86/transformed/ntcore-cpp-2026.2.1-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/61e1927f224e274ef075631484fc1efb/transformed/hal-cpp-2026.2.1-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/738cee0ad7a15c77d303f0984004580c/transformed/wpimath-cpp-2026.2.1-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/e7a445e86babc05f398ba55713fc00f8/transformed/wpinet-cpp-2026.2.1-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/cb776451b663c748c5ca414f834f0ed9/transformed/wpiutil-cpp-2026.2.1-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/c924dbf7ccc8f4dd8ec12a9f51d860ed/transformed/netcomm-2026.1.2-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/a55f4705e7cf56067e2ec20b10fe9db3/transformed/chipobject-2026.1.2-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/78c9b94bb2d2e35e7d410ed16fb5671d/transformed/visa-2026.1.2-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/bdf3d3323e037043dc69b9e4c4533ee0/transformed/cameraserver-cpp-2026.2.1-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/2270686bb771f76bfafc30927be1f03a/transformed/cscore-cpp-2026.2.1-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/9a70219691e3e432faabafecd8ac9baf/transformed/apriltag-cpp-2026.2.1-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/d461df67ba0e12807cca517db0cfe4a5/transformed/opencv-cpp-4.10.0-3-headers/",
+          "/Users/caitlin/Desktop/prog/frc2025-2.0/frc2025-2.0/src/main/include/"
+        ],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "sourceBinaries": [
+      {
+        "source": {
+          "srcDirs": [
+            "/Users/caitlin/Desktop/prog/frc2025-2.0/frc2025-2.0/src/main/cpp/"
+          ],
+          "includes": [
+            "**/*.cpp",
+            "**/*.cc"
+          ],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++20",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-enum-enum-conversion",
+          "-fPIC",
+          "-pthread",
+          "-Og",
+          "-g"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      },
+      {
+        "source": {
+          "srcDirs": [
+            "/Users/caitlin/Desktop/prog/frc2025-2.0/frc2025-2.0/src/main/include/"
+          ],
+          "includes": [],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++20",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-enum-enum-conversion",
+          "-fPIC",
+          "-pthread",
+          "-Og",
+          "-g"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "nameBinaryMap": {
+      "frcUserProgram": 0
+    }
+  },
+  {
+    "name": "linuxathena",
+    "architecture": "arm-v7",
+    "operatingSystem": "linux",
+    "flavor": "default",
+    "buildType": "release",
+    "cppPath": "/Users/caitlin/wpilib/2026/roborio/bin/arm-frc2025-linux-gnueabi-g++",
+    "cPath": "/Users/caitlin/wpilib/2026/roborio/bin/arm-frc2025-linux-gnueabi-gcc",
+    "msvc": false,
+    "gcc": true,
+    "systemCppMacros": [],
+    "systemCppArgs": [],
+    "systemCMacros": [],
+    "systemCArgs": [],
+    "allLibFiles": [
+      "/Users/caitlin/.gradle/caches/8.11/transforms/f6104bb48dc2b445d33435af44c0e1bf/transformed/wpilibNewCommands-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/d5b3b99fbbcb3d21b4101a4d5266843b/transformed/wpilibc-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/80d8d2ffa7d5a44427793cd2f84a5a86/transformed/ntcore-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/61e1927f224e274ef075631484fc1efb/transformed/hal-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/738cee0ad7a15c77d303f0984004580c/transformed/wpimath-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/e7a445e86babc05f398ba55713fc00f8/transformed/wpinet-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/cb776451b663c748c5ca414f834f0ed9/transformed/wpiutil-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/c924dbf7ccc8f4dd8ec12a9f51d860ed/transformed/netcomm-2026.1.2-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/a55f4705e7cf56067e2ec20b10fe9db3/transformed/chipobject-2026.1.2-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/78c9b94bb2d2e35e7d410ed16fb5671d/transformed/visa-2026.1.2-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/bdf3d3323e037043dc69b9e4c4533ee0/transformed/cameraserver-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/2270686bb771f76bfafc30927be1f03a/transformed/cscore-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/9a70219691e3e432faabafecd8ac9baf/transformed/apriltag-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/d461df67ba0e12807cca517db0cfe4a5/transformed/opencv-cpp-4.10.0-3-headers/",
+      "/Users/caitlin/Desktop/prog/frc2025-2.0/frc2025-2.0/src/main/include/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/f8ac86706c3f0a49dea1c5acac4d25b3/transformed/wpilibNewCommands-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/339351b81e335ef09f374ca6eb0dd63c/transformed/wpilibc-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/cd9ab110e6bbbe9ff17026ae74bef92c/transformed/ntcore-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/b72c6bb25873aa056e43a56868208f82/transformed/hal-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/787ace9bfbe73de46174bef68f6427c6/transformed/wpimath-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/37a2a5684d9f025d6af246aa02d1420d/transformed/wpinet-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/30e6b05e45027d7bb4a26adfbd216901/transformed/wpiutil-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/fc642f8f6ce41569af345c2e50c3d6b9/transformed/cameraserver-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/d83caca406c87d4d97ccdb7a67ac3c1f/transformed/cscore-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/e88f81d532f5a376fe98a0690176b32a/transformed/apriltag-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/d4463c92c53b6796c44b38dd568fc694/transformed/opencv-cpp-4.10.0-3-sources/"
+    ],
+    "allLibSources": [
+      "/Users/caitlin/.gradle/caches/8.11/transforms/f8ac86706c3f0a49dea1c5acac4d25b3/transformed/wpilibNewCommands-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/339351b81e335ef09f374ca6eb0dd63c/transformed/wpilibc-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/cd9ab110e6bbbe9ff17026ae74bef92c/transformed/ntcore-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/b72c6bb25873aa056e43a56868208f82/transformed/hal-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/787ace9bfbe73de46174bef68f6427c6/transformed/wpimath-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/37a2a5684d9f025d6af246aa02d1420d/transformed/wpinet-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/30e6b05e45027d7bb4a26adfbd216901/transformed/wpiutil-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/fc642f8f6ce41569af345c2e50c3d6b9/transformed/cameraserver-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/d83caca406c87d4d97ccdb7a67ac3c1f/transformed/cscore-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/e88f81d532f5a376fe98a0690176b32a/transformed/apriltag-cpp-2026.2.1-sources/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/d4463c92c53b6796c44b38dd568fc694/transformed/opencv-cpp-4.10.0-3-sources/"
+    ],
+    "allLibHeaders": [
+      "/Users/caitlin/.gradle/caches/8.11/transforms/f6104bb48dc2b445d33435af44c0e1bf/transformed/wpilibNewCommands-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/d5b3b99fbbcb3d21b4101a4d5266843b/transformed/wpilibc-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/80d8d2ffa7d5a44427793cd2f84a5a86/transformed/ntcore-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/61e1927f224e274ef075631484fc1efb/transformed/hal-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/738cee0ad7a15c77d303f0984004580c/transformed/wpimath-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/e7a445e86babc05f398ba55713fc00f8/transformed/wpinet-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/cb776451b663c748c5ca414f834f0ed9/transformed/wpiutil-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/c924dbf7ccc8f4dd8ec12a9f51d860ed/transformed/netcomm-2026.1.2-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/a55f4705e7cf56067e2ec20b10fe9db3/transformed/chipobject-2026.1.2-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/78c9b94bb2d2e35e7d410ed16fb5671d/transformed/visa-2026.1.2-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/bdf3d3323e037043dc69b9e4c4533ee0/transformed/cameraserver-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/2270686bb771f76bfafc30927be1f03a/transformed/cscore-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/9a70219691e3e432faabafecd8ac9baf/transformed/apriltag-cpp-2026.2.1-headers/",
+      "/Users/caitlin/.gradle/caches/8.11/transforms/d461df67ba0e12807cca517db0cfe4a5/transformed/opencv-cpp-4.10.0-3-headers/",
+      "/Users/caitlin/Desktop/prog/frc2025-2.0/frc2025-2.0/src/main/include/"
+    ],
+    "binaries": [
+      {
+        "componentName": "frcUserProgram",
+        "sourceSets": [
+          {
+            "source": {
+              "srcDirs": [
+                "/Users/caitlin/Desktop/prog/frc2025-2.0/frc2025-2.0/src/main/cpp/"
+              ],
+              "includes": [
+                "**/*.cpp",
+                "**/*.cc"
+              ],
+              "excludes": []
+            },
+            "exportedHeaders": {
+              "srcDirs": [
+                "/Users/caitlin/Desktop/prog/frc2025-2.0/frc2025-2.0/src/main/include/"
+              ],
+              "includes": [],
+              "excludes": []
+            },
+            "cpp": true,
+            "args": [
+              "-Wall",
+              "-Wextra",
+              "-std=c++20",
+              "-Wformat=2",
+              "-pedantic",
+              "-Wno-psabi",
+              "-Wno-unused-parameter",
+              "-Wno-error=deprecated-enum-enum-conversion",
+              "-fPIC",
+              "-pthread",
+              "-O2"
+            ],
+            "macros": []
+          }
+        ],
+        "libHeaders": [
+          "/Users/caitlin/.gradle/caches/8.11/transforms/f6104bb48dc2b445d33435af44c0e1bf/transformed/wpilibNewCommands-cpp-2026.2.1-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/d5b3b99fbbcb3d21b4101a4d5266843b/transformed/wpilibc-cpp-2026.2.1-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/80d8d2ffa7d5a44427793cd2f84a5a86/transformed/ntcore-cpp-2026.2.1-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/61e1927f224e274ef075631484fc1efb/transformed/hal-cpp-2026.2.1-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/738cee0ad7a15c77d303f0984004580c/transformed/wpimath-cpp-2026.2.1-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/e7a445e86babc05f398ba55713fc00f8/transformed/wpinet-cpp-2026.2.1-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/cb776451b663c748c5ca414f834f0ed9/transformed/wpiutil-cpp-2026.2.1-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/c924dbf7ccc8f4dd8ec12a9f51d860ed/transformed/netcomm-2026.1.2-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/a55f4705e7cf56067e2ec20b10fe9db3/transformed/chipobject-2026.1.2-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/78c9b94bb2d2e35e7d410ed16fb5671d/transformed/visa-2026.1.2-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/bdf3d3323e037043dc69b9e4c4533ee0/transformed/cameraserver-cpp-2026.2.1-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/2270686bb771f76bfafc30927be1f03a/transformed/cscore-cpp-2026.2.1-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/9a70219691e3e432faabafecd8ac9baf/transformed/apriltag-cpp-2026.2.1-headers/",
+          "/Users/caitlin/.gradle/caches/8.11/transforms/d461df67ba0e12807cca517db0cfe4a5/transformed/opencv-cpp-4.10.0-3-headers/",
+          "/Users/caitlin/Desktop/prog/frc2025-2.0/frc2025-2.0/src/main/include/"
+        ],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "sourceBinaries": [
+      {
+        "source": {
+          "srcDirs": [
+            "/Users/caitlin/Desktop/prog/frc2025-2.0/frc2025-2.0/src/main/cpp/"
+          ],
+          "includes": [
+            "**/*.cpp",
+            "**/*.cc"
+          ],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++20",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-enum-enum-conversion",
+          "-fPIC",
+          "-pthread",
+          "-O2"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      },
+      {
+        "source": {
+          "srcDirs": [
+            "/Users/caitlin/Desktop/prog/frc2025-2.0/frc2025-2.0/src/main/include/"
+          ],
+          "includes": [],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++20",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-enum-enum-conversion",
+          "-fPIC",
+          "-pthread",
+          "-O2"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "nameBinaryMap": {
+      "frcUserProgram": 0
+    }
+  }
+]

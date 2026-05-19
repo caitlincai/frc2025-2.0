@@ -1,0 +1,12 @@
+See file:///Users/caitlin/Desktop/prog/frc2025-2.0/frc2025-2.0/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramDebugExecutableFrcUserProgramCpp.
+compiling ExampleSubsystem.cpp successful.
+
+compiling ExampleCommand.cpp successful.
+
+compiling RobotContainer.cpp successful.
+
+compiling Autos.cpp successful.
+
+compiling Robot.cpp successful.
+
+Finished compileFrcUserProgramDebugExecutableFrcUserProgramCpp, see full log file:///Users/caitlin/Desktop/prog/frc2025-2.0/frc2025-2.0/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt.
