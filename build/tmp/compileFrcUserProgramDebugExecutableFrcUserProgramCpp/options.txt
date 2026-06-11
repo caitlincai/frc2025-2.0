@@ -15,7 +15,7 @@ c++
 -g
 -nostdinc
 -I
-/Users/caitlin/Desktop/prog/frc2025-2.0/frc2025-2.0/src/main/include
+/Users/caitlin/Desktop/prog/frc2025-2.0/src/main/include
 -I
 /Users/caitlin/.gradle/caches/8.11/transforms/f6104bb48dc2b445d33435af44c0e1bf/transformed/wpilibNewCommands-cpp-2026.2.1-headers
 -I

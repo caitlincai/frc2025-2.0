@@ -1,4 +1,28 @@
-See file:///Users/caitlin/Desktop/prog/frc2025-2.0/frc2025-2.0/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramDebugExecutableFrcUserProgramCpp.
+See file:///Users/caitlin/Desktop/prog/frc2025-2.0/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramDebugExecutableFrcUserProgramCpp.
+compiling SuperLogic.cpp failed.
+/Users/caitlin/Desktop/prog/frc2025-2.0/src/main/cpp/SuperLogic.cpp:1:10: fatal error: src/main/include/SuperLogic.h: No such file or directory
+    1 | #include "src/main/include/SuperLogic.h"
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+
+compiling DoubleSender.cpp failed.
+/Users/caitlin/Desktop/prog/frc2025-2.0/src/main/cpp/senders/DoubleSender.cpp:1:10: fatal error: src/main/include/senders/DoubleSender.h: No such file or directory
+    1 | #include "src/main/include/senders/DoubleSender.h"
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+
+compiling Elevator.cpp failed.
+/Users/caitlin/Desktop/prog/frc2025-2.0/src/main/cpp/subsystems/Elevator.cpp:1:10: fatal error: src/main/include/subsystems/Elevator.h: No such file or directory
+    1 | #include "src/main/include/subsystems/Elevator.h"
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+
+compiling Superstructure.cpp failed.
+/Users/caitlin/Desktop/prog/frc2025-2.0/src/main/cpp/Superstructure.cpp:1:10: fatal error: src/main/include/Superstructure.h: No such file or directory
+    1 | #include "src/main/include/Superstructure.h"
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+
 compiling ExampleSubsystem.cpp successful.
 
 compiling ExampleCommand.cpp successful.
@@ -9,4 +33,4 @@ compiling Autos.cpp successful.
 
 compiling Robot.cpp successful.
 
-Finished compileFrcUserProgramDebugExecutableFrcUserProgramCpp, see full log file:///Users/caitlin/Desktop/prog/frc2025-2.0/frc2025-2.0/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt.
+Finished compileFrcUserProgramDebugExecutableFrcUserProgramCpp, see full log file:///Users/caitlin/Desktop/prog/frc2025-2.0/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt.
